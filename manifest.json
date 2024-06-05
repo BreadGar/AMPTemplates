@@ -1,9 +1,10 @@
 {
-	"id": "49348d42-8dbc-4d21-b654-fe22036d4996",
-	"authors": ["Edgar Doiron", "AMP Community"],
-	"origin": "https://github.com/BreadGar/AMPTemplates.git",
-	"url": "https://github.com/BreadGar/AMPTemplates",
-	"imagefile": "",
-	"prefix": "BREAD",
-	"repotype": "AppTemplates"
+    "id": "9647311b-df92-43e5-8cf7-852a880a7a14",
+    "authors": [
+        "BreadGar - Made with AMP Config Generator"
+    ],
+    "origin": "https://github.com/BreadGar - Made with AMP Config Generator/AMPTemplates.git",
+    "url": "https://github.com/BreadGar - Made with AMP Config Generator/AMPTemplates",
+    "imagefile": "",
+    "prefix": "BreadGar - Made with AMP Config Generator"
 }
