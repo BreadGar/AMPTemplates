@@ -1,9 +1,9 @@
 {
-	"id": "ec280171-c67b-4cf8-923f-dc27fea91ee1",
-	"authors": ["CubeCoders Limited", "AMP Community"],
-	"origin": "https://github.com/CubeCoders/AMPTemplates.git",
-	"url": "https://github.com/CubeCoders/AMPTemplates",
+	"id": "49348d42-8dbc-4d21-b654-fe22036d4996",
+	"authors": ["Edgar Doiron", "AMP Community"],
+	"origin": "https://github.com/BreadGar/AMPTemplates.git",
+	"url": "https://github.com/BreadGar/AMPTemplates",
 	"imagefile": "",
-	"prefix": "",
+	"prefix": "BREAD",
 	"repotype": "AppTemplates"
 }
