@@ -73,6 +73,7 @@ Meta.MetaConfigManifest=discordserverbotmetaconfig.json
 Meta.ConfigRoot=discordserverbot.kvp
 App.RootDir=./discordserverbot/
 Meta.DisplayImageSource=url:
+Meta.AppConfigId=9647311b-df92-43e5-8cf7-852a880a7a14
 App.BaseDirectory=./discordserverbot/serverfiles/
 App.WorkingDir=serverfiles
 App.ExecutableWin=serverfiles\ForgemanBotPlugin.exe
